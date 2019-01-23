@@ -37,10 +37,11 @@ ul li.active a{
 	color: #000;
 }
 
-.logo img {
-	float: left;
-	width: 150px;
-	height: auto;
+.title img {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 
 .main {
@@ -48,14 +49,13 @@ ul li.active a{
 	margin: auto;
 }
 
-.title {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
+.logo {
+	float: left;
+	width: 150px;
+	height: auto;
 }
 
-.title h1{
+.logo h1{
 	color: #fff;
 	font-size: 30px;
 	font-family: Century Gothic;
