@@ -64,6 +64,6 @@ ul li.active a{
 .form {
 	position: absolute;
 	top: 75%;
-	left: 40%;
+	left: 36%;
 	transform: translate (150%, -75%);
 }
