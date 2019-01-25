@@ -66,4 +66,15 @@ ul li.active a{
 	top: 75%;
 	left: 40%;
 	transform: translate (150%, -75%);
+	font-family: Century Gothic;
+}
+
+.form textarea: focus,
+.form select: focus {
+	background: #d2d9dd;
+}
+
+.form select{
+	-webkit-appearance: menulist-button;
+	height: 35px;
 }
