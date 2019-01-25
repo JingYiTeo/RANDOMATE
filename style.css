@@ -65,5 +65,5 @@ ul li.active a{
 	position: absolute;
 	top: 80%;
 	left: 70%;
-	transform: translate (-150%, -100%);
+	transform: translate (150%, -100%);
 }
